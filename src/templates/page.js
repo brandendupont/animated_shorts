@@ -64,7 +64,7 @@ const Layout = ({
       <Main>
         <Container>
           <CountdownContainer 
-            targetDate={"2021-01-30T12:00:59-07:00"}
+            targetDate={"2021-01-30T11:00:59-07:00"}
             hideDays={hideDays}
             hideHours={hideHours}
             hideMinutes={hideMinutes}
